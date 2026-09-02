@@ -1,0 +1,603 @@
+﻿person_name;n_brevetti;periodo;tipo_ente;paese_verificato;continente
+MITSUBISHI;192;Pre-2000;Azienda;JP;Asia
+HITACHI;179;Pre-2000;Azienda;JP;Asia
+GENERAL ELECTRIC;176;Pre-2000;Azienda;US;America
+UNITED TECHNOLOGIES;139;Pre-2000;Azienda;US;America
+BOEING;103;Pre-2000;Azienda;US;America
+TOSHIBA;79;Pre-2000;Azienda;JP;Asia
+SIEMENS;77;Pre-2000;Azienda;DE;Europa
+WESTINGHOUSE;58;Pre-2000;Azienda;US;America
+PANASONIC (MATSUSHITA);57;Pre-2000;Azienda;JP;Asia
+Sundstrand Corporation;52;Pre-2000;Azienda;US;America
+FUJI;51;Pre-2000;Azienda;JP;Asia
+The United States Of America As Represented By The Secretary Of The Navy;39;Pre-2000;Ente pubblico;US;America
+WOBBEN, ALOYS;35;Pre-2000;Azienda;DE;Europa
+EUROCOPTER;33;Pre-2000;Azienda;FR;Europa
+HONDA;32;Pre-2000;Azienda;JP;Asia
+The United States Of America As Represented By The Administrator Of The;28;Pre-2000;Ente pubblico;US;America
+General Motors Corporation;27;Pre-2000;Azienda;US;America
+The B. F. Goodrich Company;26;Pre-2000;Azienda;US;America
+The United States Of America As Represented By The United States;23;Pre-2000;Ente pubblico;US;America
+YAMAHA;22;Pre-2000;Azienda;JP;Asia
+Ishikawajima Harima Heavy Ind Co Ltd;21;Pre-2000;Azienda;JP;Asia
+ROLLS-ROYCE;21;Pre-2000;Azienda;GB;Europa
+BOSCH;20;Pre-2000;Azienda;DE;Europa
+The United States Of America As Represented By The Secretary Of The Army;20;Pre-2000;Ente pubblico;US;America
+LM WIND POWER;20;Pre-2000;Azienda;DK;Europa
+KAWASAKI;19;Pre-2000;Azienda;JP;Asia
+TOYOTA;18;Pre-2000;Azienda;JP;Asia
+Grumman Aerospace Corporation;17;Pre-2000;Azienda;US;America
+DENSO;17;Pre-2000;Azienda;JP;Asia
+SHELL;15;Pre-2000;Azienda;NL;Europa
+Nippon Steel Corp;15;Pre-2000;Azienda;JP;Asia
+CATERPILLAR;15;Pre-2000;Azienda;US;America
+Alliedsignal Inc.;15;Pre-2000;Azienda;US;America
+Northrop Grumman Corporation;15;Pre-2000;Azienda;US;America
+U.S. Windpower, Inc.;14;Pre-2000;Azienda;US;America
+FORD;14;Pre-2000;Azienda;US;America
+Electric Power Research Institute, Inc.;14;Pre-2000;Ente pubblico;US;America
+Mcdonnell Douglas Corporation;14;Pre-2000;Azienda;US;America
+Nkk Corp;13;Pre-2000;Azienda;JP;Asia
+Massachusetts Institute Of Technology;13;Pre-2000;Università;US;America
+SKF;13;Pre-2000;Azienda;SE;Europa
+Minnesota Mining And Manufacturing Company;12;Pre-2000;Azienda;US;America
+Messerschmitt-Boelkow-Blohm Gesellschaft Mit Beschraenkter Haftung;12;Pre-2000;Azienda;DE;Europa
+Sikorsky Aircraft Corporation;12;Pre-2000;Azienda;US;America
+Square D Company;12;Pre-2000;Azienda;US;America
+Bell Helicopter Textron Inc.;12;Pre-2000;Azienda;US;America
+Aerodyn Engineering Gmbh;11;Pre-2000;Azienda;DE;Europa
+Koyo Seiko Co., Ltd.;11;Pre-2000;Azienda;JP;Asia
+The United States Of America As Represented By The Secretary Of The Air;11;Pre-2000;Ente pubblico;US;America
+Bonus Energy A/S;11;Pre-2000;Azienda;DK;Europa
+IBM;10;Pre-2000;Azienda;US;America
+NISSAN;10;Pre-2000;Azienda;JP;Asia
+Tokyo Shibaura Electric Co;10;Pre-2000;Azienda;JP;Asia
+Honeywell Inc.;10;Pre-2000;Azienda;US;America
+Motorola, Inc.;10;Pre-2000;Azienda;US;America
+Hughes Aircraft Company;10;Pre-2000;Azienda;US;America
+Ntn Corp;9;Pre-2000;Azienda;JP;Asia
+ROCKWELL;9;Pre-2000;Azienda;US;America
+Conoco Inc.;9;Pre-2000;Azienda;US;America
+Daikin Ind Ltd;9;Pre-2000;Azienda;JP;Asia
+Canon Inc;9;Pre-2000;Azienda;JP;Asia
+Kogyo Gijutsuin;9;Pre-2000;Ente pubblico;JP;Asia
+The Torrington Company;9;Pre-2000;Azienda;US;America
+British Aerospace Public Limited Company;9;Pre-2000;Azienda;GB;Europa
+Isuzu Motors Ltd;8;Pre-2000;Azienda;JP;Asia
+Daimlerchrysler Ag;8;Pre-2000;Azienda;DE;Europa
+Ohbayashi Corp;8;Pre-2000;Azienda;JP;Asia
+Taisei Corp;8;Pre-2000;Azienda;JP;Asia
+Kansai Electric Power Co Inc:The;8;Pre-2000;Azienda;JP;Asia
+Mitsui Eng & Shipbuild Co Ltd;8;Pre-2000;Azienda;JP;Asia
+Messerschmitt-Boelkow-Blohm Gmbh, 8000 Muenchen, De;8;Pre-2000;Azienda;DE;Europa
+Bayer Aktiengesellschaft;8;Pre-2000;Azienda;DE;Europa
+Eaton Corporation;8;Pre-2000;Azienda;US;America
+The Dow Chemical Company;8;Pre-2000;Azienda;US;America
+Air Products And Chemicals, Inc.;8;Pre-2000;Azienda;US;America
+Kajima Corp;8;Pre-2000;Azienda;JP;Asia
+Aerospatiale Societe Nationale Industrielle;8;Pre-2000;Azienda;FR;Europa
+SONY;8;Pre-2000;Azienda;JP;Asia
+E.I. Du Pont De Nemours And Company;7;Pre-2000;Azienda;US;America
+"Labrador; Gaudencio A.";7;Pre-2000;Altro;PH;Asia
+Allied-Signal Inc.;7;Pre-2000;Azienda;US;America
+"Spector; George";7;Pre-2000;Altro;US;America
+Borg-Warner Automotive, Inc.;7;Pre-2000;Azienda;US;America
+Tokyo Shibaura Denki Kk;7;Pre-2000;Azienda;JP;Asia
+Koyo Seiko Co Ltd;7;Pre-2000;Azienda;JP;Asia
+United Aircraft Corp,Us;7;Pre-2000;Azienda;US;America
+Herter,Erich;7;Pre-2000;Altro;DE;Europa
+Brown & Root, Inc.;7;Pre-2000;Azienda;US;America
+Stiesdal, Henrik;7;Pre-2000;Altro;DK;Europa
+The Regents Of The University Of California;7;Pre-2000;Università;US;America
+National Research Development Corporation;6;Pre-2000;Ente pubblico;GB;Europa
+"Mccabe; Francis J.";6;Pre-2000;Altro;US;America
+Exxon Production Research Company;6;Pre-2000;Azienda;US;America
+Lockheed Martin Corporation;6;Pre-2000;Azienda;US;America
+Lockheed Corporation;6;Pre-2000;Azienda;US;America
+Kraftwerk Union Aktiengesellschaft;6;Pre-2000;Azienda;DE;Europa
+Institut Francais Du Petrole;6;Pre-2000;Ente pubblico;FR;Europa
+Nissin Electric Co Ltd;6;Pre-2000;Azienda;JP;Asia
+"Hickey; John J.";6;Pre-2000;Altro;US;America
+Kobe Steel Ltd;6;Pre-2000;Azienda;JP;Asia
+Grabau, Peter;6;Pre-2000;Altro;DE;Europa
+Midwest Research Institute;6;Pre-2000;Ente pubblico;US;America
+ZF;6;Pre-2000;Azienda;DE;Europa
+Tovarishchestvo S Ogranichennoj Otvetstvennostyu Firma 'Obshchemash-Inzhiniring';6;Pre-2000;Azienda;RU;Europa
+Sanyo Electric Co Ltd;6;Pre-2000;Azienda;JP;Asia
+Atlantic Richfield Company;6;Pre-2000;Azienda;US;America
+Borg-Warner Corporation;6;Pre-2000;Azienda;US;America
+Alcatel;6;Pre-2000;Azienda;FR;Europa
+Takenaka Komuten Co Ltd;6;Pre-2000;Azienda;JP;Asia
+E. I. Du Pont De Nemours And Company;6;Pre-2000;Azienda;US;America
+The B.F. Goodrich Company;6;Pre-2000;Azienda;US;America
+"Eickmann; Karl";6;Pre-2000;Altro;DE;Europa
+Sekisui Chem Co Ltd;6;Pre-2000;Azienda;JP;Asia
+The Garrett Corporation;6;Pre-2000;Azienda;US;America
+Abb Ab;6;Pre-2000;Azienda;SE;Europa
+Tokyo Electric Power Co Inc:The;6;Pre-2000;Azienda;JP;Asia
+"Mouton, Jr.; William J.";5;Pre-2000;Altro;US;America
+Capstone Turbine Corporation;5;Pre-2000;Azienda;US;America
+Nec Corp;5;Pre-2000;Azienda;JP;Asia
+Ingenior F. Selmer A/S;5;Pre-2000;Azienda;NO;Europa
+Isuzu Motors Limited;5;Pre-2000;Azienda;JP;Asia
+Inst Elektrodinamiki;5;Pre-2000;Ente pubblico;UA;Europa
+Nec Corporation;5;Pre-2000;Azienda;JP;Asia
+National Power Plc;5;Pre-2000;Azienda;GB;Europa
+A/S Hoyer-Ellefsen;5;Pre-2000;Azienda;NO;Europa
+"Benoit; William R.";5;Pre-2000;Altro;US;America
+"Benesh; Alvin H.";5;Pre-2000;Altro;US;America
+The Timken Company;5;Pre-2000;Azienda;US;America
+Illinois Tool Works Inc.;5;Pre-2000;Azienda;US;America
+"Thompson; David F.";5;Pre-2000;Altro;US;America
+Kajima Corporation;5;Pre-2000;Azienda;JP;Asia
+Mazda Motor Corp;5;Pre-2000;Azienda;JP;Asia
+Advanced Technology Institute Of Commuter-Helicopter, Ltd.;5;Pre-2000;Azienda;JP;Asia
+Meidensha Corp;5;Pre-2000;Azienda;JP;Asia
+Westland Helicopters Limited;5;Pre-2000;Azienda;GB;Europa
+Messerschmitt-Boelkow-Blohm Gmbh;5;Pre-2000;Azienda;DE;Europa
+"Laing; Oliver";5;Pre-2000;Altro;GB;Europa
+"Weisbrich; Alfred L.";5;Pre-2000;Altro;US;America
+Messerschmitt-Boelkow-Blohm Gmbh, 8012 Ottobrunn, De;5;Pre-2000;Azienda;DE;Europa
+Allis-Chalmers Corporation;5;Pre-2000;Azienda;US;America
+Messerschmitt-Bölkow-Blohm Gesellschaft Mit Beschränkter Haftung;5;Pre-2000;Azienda;DE;Europa
+Vestas Wind Systems A/S;5;Pre-2000;Azienda;DK;Europa
+Usui Internatl Ind Co Ltd;5;Pre-2000;Azienda;JP;Asia
+Trw Inc.;5;Pre-2000;Azienda;US;America
+Misawa Homes Co Ltd;5;Pre-2000;Azienda;JP;Asia
+Carter Wind Power;5;Pre-2000;Azienda;US;America
+Nippon Kokan Kk;5;Pre-2000;Azienda;JP;Asia
+Engelhard Corporation;5;Pre-2000;Azienda;US;America
+Fmc Corporation;5;Pre-2000;Azienda;US;America
+Northrop Corporation;5;Pre-2000;Azienda;US;America
+Stichting Energieonderzoek Centrum Nederland;5;Pre-2000;Ente pubblico;NL;Europa
+Otis Elevator Company;5;Pre-2000;Azienda;US;America
+Gotaverken Arendal Ab;5;Pre-2000;Azienda;SE;Europa
+Phillips Petroleum Company;5;Pre-2000;Azienda;US;America
+Georgia Tech Research Corporation;5;Pre-2000;Università;US;America
+Deutsches Zentrum Fur Luft-Und Raumfahrt E.V.;5;Pre-2000;Ente pubblico;DE;Europa
+General Dynamics Corporation;5;Pre-2000;Azienda;US;America
+Ebara Corp;5;Pre-2000;Azienda;JP;Asia
+Csi Technology, Inc.;5;Pre-2000;Azienda;US;America
+Societe Nationale Industrielle Aerospatiale;5;Pre-2000;Azienda;FR;Europa
+Teijin Seiki Co., Ltd.;5;Pre-2000;Azienda;JP;Asia
+Shakespeare Company;5;Pre-2000;Azienda;US;America
+Northern Power Systems, Inc.;5;Pre-2000;Azienda;US;America
+Northeastern University;5;Pre-2000;Università;US;America
+Shimizu Corp;5;Pre-2000;Azienda;JP;Asia
+Procedes Techniques De Construction;4;Pre-2000;Azienda;FR;Europa
+Mazda Motor Corporation;4;Pre-2000;Azienda;JP;Asia
+Shimizu Construction Co., Ltd.;4;Pre-2000;Azienda;JP;Asia
+Yunaitetsudo Tekunorojiizu Corp;4;Pre-2000;Altro;JP;Asia
+Voith Getriebe Kg, 7920 Heidenheim, De;4;Pre-2000;Azienda;DE;Europa
+Renk Aktiengesellschaft;4;Pre-2000;Azienda;DE;Europa
+Messerschmitt-Bolkow-Blohm Gmbh;4;Pre-2000;Azienda;DE;Europa
+Wisconsin Alumni Research Foundation;4;Pre-2000;Università;US;America
+Societe Nationale D'Etude Et De Construction De Moteurs D'Aviation;4;Pre-2000;Azienda;FR;Europa
+Smith International, Inc.;4;Pre-2000;Azienda;US;America
+United Technol Corp <Utc>;4;Pre-2000;Azienda;US;America
+Rca Corporation;4;Pre-2000;Azienda;US;America
+Nippon Seiko Kabushiki Kaisha;4;Pre-2000;Azienda;JP;Asia
+Sumitomo Heavy Ind Ltd;4;Pre-2000;Azienda;JP;Asia
+Ube Ind Ltd;4;Pre-2000;Azienda;JP;Asia
+Tacke Windenergie Gmbh;4;Pre-2000;Azienda;DE;Europa
+The Bendix Corporation;4;Pre-2000;Azienda;US;America
+Nippon Thompson Co., Ltd.;4;Pre-2000;Azienda;JP;Asia
+Neg Micon A/S;4;Pre-2000;Azienda;DK;Europa
+Textron, Inc.;4;Pre-2000;Azienda;US;America
+Teijin Seiki Co Ltd;4;Pre-2000;Azienda;JP;Asia
+Nauchno-Proizvodstvennoe Ob'Edinenie 'Vetroen';4;Pre-2000;Ente pubblico;RU;Europa
+The State Of Oregon Acting By And Through The State Board Of Higher;4;Pre-2000;Ente pubblico;US;America
+Nsk Ltd.;4;Pre-2000;Azienda;JP;Asia
+Ntn Corporation;4;Pre-2000;Azienda;JP;Asia
+Nippon Seiko Kk;4;Pre-2000;Azienda;JP;Asia
+Null, Null;4;Pre-2000;Altro;XX;Altro
+N-Proizv Ob 'Vetroen';4;Pre-2000;Ente pubblico;RU;Europa
+Ocean Power Technologies, Inc.;4;Pre-2000;Azienda;US;America
+Sumitomo Metal Ind Ltd;4;Pre-2000;Azienda;JP;Asia
+Sumitomo Kinzoku Kogyo Kk;4;Pre-2000;Azienda;JP;Asia
+Onan Corporation;4;Pre-2000;Azienda;US;America
+Tovarishchestvo S Ogranichennoj Otvetstvennost'Ju;4;Pre-2000;Azienda;RU;Europa
+Mobil Oil Corporation;4;Pre-2000;Azienda;US;America
+Samsung Electronics Co., Ltd.;4;Pre-2000;Azienda;KR;Asia
+3M Innovative Properties Company;4;Pre-2000;Azienda;US;America
+"Bolie; Victor W.";4;Pre-2000;Altro;US;America
+Erno Raumfahrttechnik Gmbh;4;Pre-2000;Azienda;DE;Europa
+Etat Francais;4;Pre-2000;Ente pubblico;FR;Europa
+Chrysler Corporation;4;Pre-2000;Azienda;US;America
+Freimund, Wolfgang, 22179 Hamburg, De;4;Pre-2000;Altro;DE;Europa
+Freyssinet International (Stup);4;Pre-2000;Azienda;FR;Europa
+Goetaverken Arendal Ab;4;Pre-2000;Azienda;SE;Europa
+Bbc Brown Boveri & Company Limited;4;Pre-2000;Azienda;CH;Europa
+Bbc Brown, Boveri & Company, Limited;4;Pre-2000;Azienda;CH;Europa
+"Gutierrez Atencio; Francisco J.";4;Pre-2000;Altro;ES;Europa
+Hosoda Naoyoshi;4;Pre-2000;Altro;JP;Asia
+Brown & Root Inc.;4;Pre-2000;Azienda;US;America
+Hoesch Ag, 4600 Dortmund, De;4;Pre-2000;Azienda;DE;Europa
+Hino Motors Ltd;4;Pre-2000;Azienda;JP;Asia
+Herter,Gunnar;4;Pre-2000;Altro;DE;Europa
+Cincinnati Milacron Inc.;4;Pre-2000;Azienda;US;America
+Harnischfeger Corporation;4;Pre-2000;Azienda;US;America
+"Diggs; Richard E.";4;Pre-2000;Altro;US;America
+Asea Brown Boveri Ab;4;Pre-2000;Azienda;SE;Europa
+"Kelly; Donald A.";4;Pre-2000;Altro;US;America
+Doris Engineering;4;Pre-2000;Azienda;FR;Europa
+Dowty Aerospace Gloucester Limited;4;Pre-2000;Azienda;GB;Europa
+Lutron Electronics Co., Inc.;4;Pre-2000;Azienda;US;America
+Aerodyn Engineering Gmbh, 24768 Rendsburg, De;4;Pre-2000;Azienda;DE;Europa
+Lucent Technologies Inc.;4;Pre-2000;Azienda;US;America
+Lord Corporation;4;Pre-2000;Azienda;US;America
+Litton Systems, Inc.;4;Pre-2000;Azienda;US;America
+"Lew; Hyok S.";4;Pre-2000;Altro;KR;Asia
+American Cyanamid Company;4;Pre-2000;Azienda;US;America
+Aisin Seiki Kabushiki Kaisha;4;Pre-2000;Azienda;JP;Asia
+"Christenson; Lowell B.";4;Pre-2000;Altro;US;America
+Dn G Univ Im.300-Letiya Vossoedineniya Ukrainy S Rossiej;4;Pre-2000;Università;UA;Europa
+Kumagai Gumi Co Ltd;4;Pre-2000;Azienda;JP;Asia
+Aluminum Company Of America;4;Pre-2000;Azienda;US;America
+"Kling; Alberto";4;Pre-2000;Altro;DE;Europa
+"Crowley; Francis X.";3;Pre-2000;Altro;US;America
+Cornell Research Foundation, Inc.;3;Pre-2000;Università;US;America
+Computational Systems, Inc.;3;Pre-2000;Azienda;US;America
+Daimler-Benz Aktiengesellschaft;3;Pre-2000;Azienda;DE;Europa
+Dancontrol Engineering A/S;3;Pre-2000;Azienda;DK;Europa
+"David; Constant V.";3;Pre-2000;Altro;FR;Europa
+Composite Development Corporation;3;Pre-2000;Azienda;US;America
+Deere & Company;3;Pre-2000;Azienda;US;America
+Dornier System Gmbh;3;Pre-2000;Azienda;DE;Europa
+Ciba-Geigy Corporation;3;Pre-2000;Azienda;CH;Europa
+Degussa Aktiengesellschaft;3;Pre-2000;Azienda;DE;Europa
+Dornier Gmbh;3;Pre-2000;Azienda;DE;Europa
+Mannesmann Ag, 40213 Duesseldorf, De;3;Pre-2000;Azienda;DE;Europa
+Carrier Corporation;3;Pre-2000;Azienda;US;America
+Autoflug Energietechnik Gmbh + Co.;3;Pre-2000;Azienda;DE;Europa
+Abb Management Ag;3;Pre-2000;Azienda;CH;Europa
+Aerodyn Energiesysteme Gmbh, 24768 Rendsburg, De;3;Pre-2000;Azienda;DE;Europa
+Aisin Aw Co., Ltd.;3;Pre-2000;Azienda;JP;Asia
+Alcatel Alsthom Compagnie Generale D'Electricite;3;Pre-2000;Azienda;FR;Europa
+"Allison; William D.";3;Pre-2000;Altro;US;America
+American Superconductor Corporation;3;Pre-2000;Azienda;US;America
+Applied Research & Technology Limited;3;Pre-2000;Azienda;GB;Europa
+"Arnold; Lee";3;Pre-2000;Altro;US;America
+Asahi Glass Co Ltd;3;Pre-2000;Azienda;JP;Asia
+At&T Corp.;3;Pre-2000;Azienda;US;America
+Baker Hughes Incorporated;3;Pre-2000;Azienda;US;America
+"Carpenter; Howard G.";3;Pre-2000;Altro;US;America
+Balyakin Konstantin N;3;Pre-2000;Altro;RU;Europa
+Barmag Ag;3;Pre-2000;Azienda;DE;Europa
+Basf Aktiengesellschaft;3;Pre-2000;Azienda;DE;Europa
+Bayer Ag;3;Pre-2000;Azienda;DE;Europa
+Bbc Brown Boveri & Cie;3;Pre-2000;Azienda;CH;Europa
+"Bergstein; Frank D.";3;Pre-2000;Altro;US;America
+"Biscomb; Lloyd I.";3;Pre-2000;Altro;US;America
+Dyckerhoff & Widmann Ag;3;Pre-2000;Azienda;DE;Europa
+Bruss Polt Institut;3;Pre-2000;Altro;DE;Europa
+Budrevich Cheslav-Konstantin A,Su;3;Pre-2000;Altro;RU;Europa
+"Drucker; Ernest R.";3;Pre-2000;Altro;US;America
+Escher Wyss Limited;3;Pre-2000;Azienda;CH;Europa
+Dyckerhoff & Widmann Aktiengesellschaft;3;Pre-2000;Azienda;DE;Europa
+Kayaba Ind Co Ltd;3;Pre-2000;Azienda;JP;Asia
+Ingenior Thor Furuholmen A/S;3;Pre-2000;Azienda;NO;Europa
+International Harvester Company;3;Pre-2000;Azienda;US;America
+Inventio Ag;3;Pre-2000;Azienda;CH;Europa
+Ishikawajima Harima Heavy Ind;3;Pre-2000;Azienda;JP;Asia
+"Jacobs; Marcellus L.";3;Pre-2000;Altro;US;America
+Jaehnke, Klaus-Peter, 22175 Hamburg, De;3;Pre-2000;Altro;DE;Europa
+James Howden & Company Limited;3;Pre-2000;Azienda;GB;Europa
+Mueller,Walter;3;Pre-2000;Altro;DE;Europa
+Mtu Motoren- Und Turbinen-Union Muenchen Gmbh;3;Pre-2000;Azienda;DE;Europa
+Kabushiki Kaisha Komatsu Seisakusho;3;Pre-2000;Azienda;JP;Asia
+Kabushikikaisha Equos Research;3;Pre-2000;Azienda;JP;Asia
+Mo Energeticheskij Institut;3;Pre-2000;Ente pubblico;RU;Europa
+"Earle; John L.";3;Pre-2000;Altro;US;America
+Mitsui Zosen Kk;3;Pre-2000;Azienda;JP;Asia
+Mitsui Shipbuilding Eng;3;Pre-2000;Azienda;JP;Asia
+"Kenney; Clarence E.";3;Pre-2000;Altro;US;America
+Klockner-Humboldt-Deutz Aktiengesellschaft;3;Pre-2000;Azienda;DE;Europa
+Kyocera Corp;3;Pre-2000;Azienda;JP;Asia
+"Laing; Ingeborg";3;Pre-2000;Altro;GB;Europa
+"Laing; Nikolaus";3;Pre-2000;Altro;GB;Europa
+"Lamont; John S.";3;Pre-2000;Altro;US;America
+"Lund; Arnold M.";3;Pre-2000;Altro;US;America
+M.A.N. Maschinenfabrik Augsburg-Nuernberg Ag, 8000 Muenchen, De;3;Pre-2000;Azienda;DE;Europa
+Maschinenfabrik Augsburg-Nuernberg Ag;3;Pre-2000;Azienda;DE;Europa
+GENERAL ELECTRIC;4922;Post-2000;Azienda;US;America
+VESTAS;4221;Post-2000;Azienda;DK;Europa
+WOBBEN, ALOYS;4090;Post-2000;Azienda;DE;Europa
+SIEMENS;2604;Post-2000;Azienda;DE;Europa
+GOLDWIND;1958;Post-2000;Azienda;CN;Asia
+MITSUBISHI;1587;Post-2000;Azienda;JP;Asia
+SIEMENS GAMESA;1320;Post-2000;Azienda;ES;Europa
+SENVION;1263;Post-2000;Azienda;DE;Europa
+STATE GRID CORPORATION OF CHINA;919;Post-2000;Azienda;CN;Asia
+HITACHI;729;Post-2000;Azienda;JP;Asia
+ZHEJIANG UNIVERSITY;715;Post-2000;Università;CN;Asia
+LM WIND POWER;599;Post-2000;Azienda;DK;Europa
+Nordex Energy Gmbh;552;Post-2000;Azienda;DE;Europa
+BOEING;498;Post-2000;Azienda;US;America
+Lm Wp Patent Holding A/S;419;Post-2000;Azienda;DK;Europa
+Guodian United Power Technology Co., Ltd.;407;Post-2000;Azienda;CN;Asia
+Samsung Heavy Ind. Co., Ltd.;384;Post-2000;Azienda;KR;Asia
+GAMESA;367;Post-2000;Azienda;ES;Europa
+Ethicon Llc;363;Post-2000;Azienda;US;America
+ZF;351;Post-2000;Azienda;DE;Europa
+TOSHIBA;285;Post-2000;Azienda;JP;Asia
+BOSCH;266;Post-2000;Azienda;DE;Europa
+Hamilton Sundstrand Corporation;262;Post-2000;Azienda;US;America
+Ntn Corporation;252;Post-2000;Azienda;JP;Asia
+North China Electric Power University;249;Post-2000;Università;CN;Asia
+UNITED TECHNOLOGIES;243;Post-2000;Azienda;US;America
+SKF;242;Post-2000;Azienda;SE;Europa
+Dalian University Of Technology;213;Post-2000;Università;CN;Asia
+Tianjin University;207;Post-2000;Università;CN;Asia
+Envision Energy (Denmark) Aps;192;Post-2000;Azienda;DK;Europa
+ヴォッベン プロパティーズ ゲーエムベーハーＷｏｂｂｅｎ Ｐｒｏｐｅｒｔｉｅｓ Ｇｍｂｈ;186;Post-2000;Azienda;DE;Europa
+SINOVEL;185;Post-2000;Azienda;CN;Asia
+Beijing Jinfeng Kechuang Wind Power Equipment Co., Ltd.;179;Post-2000;Azienda;CN;Asia
+维斯塔斯风力系统集团公司;178;Post-2000;Azienda;CN;Asia
+MING YANG;177;Post-2000;Azienda;CN;Asia
+Ntn Corp;176;Post-2000;Azienda;JP;Asia
+Hohai University;168;Post-2000;Università;CN;Asia
+Doosan Heavy Industries & Construction Co., Ltd.;167;Post-2000;Azienda;KR;Asia
+Shanghai Jiao Tong University;164;Post-2000;Università;CN;Asia
+维斯塔斯风力系统有限公司;159;Post-2000;Azienda;CN;Asia
+Tsinghua University;156;Post-2000;Università;CN;Asia
+Nanjing University Of Aeronautics And Astronautics;149;Post-2000;Università;CN;Asia
+通用电气公司;149;Post-2000;Azienda;CN;Asia
+Xi'An Jiaotong University;145;Post-2000;Università;CN;Asia
+Kite Gen Research S.R.L.;144;Post-2000;Azienda;IT;Europa
+Jiangsu Jinfeng Science & Technology Co., Ltd.;141;Post-2000;Azienda;CN;Asia
+西门子公司;141;Post-2000;Azienda;CN;Asia
+ROLLS-ROYCE;140;Post-2000;Azienda;GB;Europa
+Innogy Se;138;Post-2000;Azienda;DE;Europa
+Chongqing University;136;Post-2000;Università;CN;Asia
+Harbin Engineering University;132;Post-2000;Università;CN;Asia
+Southeast University;129;Post-2000;Università;CN;Asia
+Ethicon Endo-Surgery, Llc;127;Post-2000;Azienda;US;America
+Alstom Renewable Technologies;125;Post-2000;Azienda;FR;Europa
+Sany Heavy Energy Equipment Co., Ltd.;124;Post-2000;Azienda;CN;Asia
+西门子歌美飒可再生能源公司;124;Post-2000;Azienda;CN;Asia
+Xuchang Xuji Wind Power Technology Co., Ltd.;123;Post-2000;Azienda;CN;Asia
+X Development Llc;122;Post-2000;Azienda;US;America
+Schaeffler Technologies Ag & Co. Kg;121;Post-2000;Azienda;DE;Europa
+FUJI;121;Post-2000;Azienda;JP;Asia
+Google Inc.;121;Post-2000;Azienda;US;America
+Institute Of Engineering Thermophysics, Chinese Academy Of Sciences;114;Post-2000;Ente pubblico;CN;Asia
+Blade Dynamics Limited;114;Post-2000;Azienda;GB;Europa
+China Electric Power Research Institute;113;Post-2000;Ente pubblico;CN;Asia
+Bell Helicopter Textron Inc.;113;Post-2000;Azienda;US;America
+SHANGHAI ELECTRIC;113;Post-2000;Azienda;CN;Asia
+IBM;113;Post-2000;Azienda;US;America
+Honeywell International Inc.;111;Post-2000;Azienda;US;America
+Thyssenkrupp Ag;110;Post-2000;Azienda;DE;Europa
+Abb Schweiz Ag;108;Post-2000;Azienda;CH;Europa
+DENSO;106;Post-2000;Azienda;JP;Asia
+Hebei University Of Technology;104;Post-2000;Università;CN;Asia
+Daewoo Shipbuilding & Marine Engineering Co., Ltd.;104;Post-2000;Azienda;KR;Asia
+TOYOTA;103;Post-2000;Azienda;JP;Asia
+Envision Energy (Jiangsu) Co., Ltd.;101;Post-2000;Azienda;CN;Asia
+Wuhan University Of Technology;100;Post-2000;Università;CN;Asia
+Northwestern Polytechnical University;99;Post-2000;Università;CN;Asia
+Xemc Windpower Co., Ltd.;97;Post-2000;Azienda;CN;Asia
+Harbin Institute Of Technology;96;Post-2000;Università;CN;Asia
+Tongji University;96;Post-2000;Università;CN;Asia
+Nsk Ltd;95;Post-2000;Azienda;JP;Asia
+North China Electric Power University (Baoding);95;Post-2000;Università;CN;Asia
+3M Innovative Properties Company;95;Post-2000;Azienda;US;America
+Qingdao China Creative Wind Energy Co., Ltd.;94;Post-2000;Azienda;CN;Asia
+Fos4X Gmbh;92;Post-2000;Azienda;DE;Europa
+Jiangsu University;91;Post-2000;Università;CN;Asia
+Guangdong Mingyang Wind Power Industry Group Co.,Ltd.;90;Post-2000;Azienda;CN;Asia
+Nanjing High Speed Gear Manufacturing Co., Ltd.;90;Post-2000;Azienda;CN;Asia
+Moog Unna Gmbh;89;Post-2000;Azienda;DE;Europa
+Walmart Apollo, Llc;89;Post-2000;Azienda;US;America
+Xuji Group Co., Ltd.;88;Post-2000;Azienda;CN;Asia
+Sikorsky Aircraft Corporation;87;Post-2000;Azienda;US;America
+China Creative Wind Energy Co.,Ltd.;86;Post-2000;Azienda;CN;Asia
+Ｎｔｎ株式会社;86;Post-2000;Azienda;JP;Asia
+Inner Mongolia University Of Technology;85;Post-2000;Università;CN;Asia
+Flender Gmbh;85;Post-2000;Azienda;DE;Europa
+Stiesdal, Henrik;85;Post-2000;Altro;DK;Europa
+Ningxia China Creative Wind Energy Co., Ltd.;84;Post-2000;Azienda;CN;Asia
+Shandong University;84;Post-2000;Università;CN;Asia
+Jiangsu University Of Science And Technology;84;Post-2000;Università;CN;Asia
+China Creative Wind Energy Tongliao Factory;82;Post-2000;Azienda;CN;Asia
+Strong Force Iot Portfolio 2016, Llc;82;Post-2000;Azienda;US;America
+Huazhong University Of Science And Technology;81;Post-2000;Università;CN;Asia
+Eulikind (Tianjin) Technology Co., Ltd.;79;Post-2000;Azienda;CN;Asia
+Massachusetts Institute Of Technology;79;Post-2000;Università;US;America
+Alstom Renovables España, S.L.;79;Post-2000;Azienda;ES;Europa
+Shanghai Dianji University;77;Post-2000;Università;CN;Asia
+South China University Of Technology;76;Post-2000;Università;CN;Asia
+ROCKWELL;76;Post-2000;Azienda;US;America
+Crrc Zhuzhou Institute Co., Ltd.;76;Post-2000;Azienda;CN;Asia
+Lm Wp 专利控股有限公司;75;Post-2000;Azienda;CN;Asia
+University Of Shanghai For Science & Technology;75;Post-2000;Università;CN;Asia
+Southwest Jiaotong University;75;Post-2000;Università;CN;Asia
+Sany Electric Co., Ltd.;74;Post-2000;Azienda;CN;Asia
+Lockheed Martin Corporation;73;Post-2000;Azienda;US;America
+Nanjing High Drive Electromechanical Automation Equipment Co., Ltd.;72;Post-2000;Azienda;CN;Asia
+Artemis Intelligent Power Limited;72;Post-2000;Azienda;GB;Europa
+Voith Patent Gmbh;71;Post-2000;Azienda;DE;Europa
+Korea Electric Power Corporation;71;Post-2000;Azienda;KR;Asia
+Jtekt Corporation;71;Post-2000;Azienda;JP;Asia
+Ge Renewable Technologies Wind B.V.;70;Post-2000;Azienda;NL;Europa
+Abb Technology Ag;69;Post-2000;Azienda;CH;Europa
+Fraunhofer-Gesellschaft Zur Förderung Der Angewandten Forschung E.V.;69;Post-2000;Ente pubblico;DE;Europa
+Adwen Gmbh;68;Post-2000;Azienda;DE;Europa
+Snecma;68;Post-2000;Azienda;FR;Europa
+Taiyuan Heavy Industry Co., Ltd.;68;Post-2000;Azienda;CN;Asia
+Qufu Normal University;67;Post-2000;Università;CN;Asia
+Powerchina Huadong Engineering Corporation Limited;66;Post-2000;Azienda;CN;Asia
+Airbus Operations Gmbh;66;Post-2000;Azienda;DE;Europa
+Beijing Puhua Yineng Wind Power Technology Co., Ltd.;66;Post-2000;Azienda;CN;Asia
+Youwinenergy Gmbh;66;Post-2000;Azienda;DE;Europa
+Thyssenkrupp Rothe Erde Gmbh;66;Post-2000;Azienda;DE;Europa
+Beihang University;65;Post-2000;Università;CN;Asia
+Nuscale Power, Llc;65;Post-2000;Azienda;US;America
+Nanjing University Of Science And Technology;65;Post-2000;Università;CN;Asia
+Dongfang Electric Wind Power Co., Ltd.;65;Post-2000;Azienda;CN;Asia
+PANASONIC (MATSUSHITA);65;Post-2000;Azienda;JP;Asia
+Sany Heavy Energy Co., Ltd.;64;Post-2000;Azienda;CN;Asia
+Shanghai University;64;Post-2000;Università;CN;Asia
+FORD;63;Post-2000;Azienda;US;America
+Amazon Technologies, Inc.;62;Post-2000;Azienda;US;America
+Shenyang University Of Technology;62;Post-2000;Università;CN;Asia
+Csic (Chongqing) Haizhuang Windpower Equipment Co., Ltd.;62;Post-2000;Azienda;CN;Asia
+Northeastern University;62;Post-2000;Università;CN;Asia
+Vobben Propertiz Gmbkh;62;Post-2000;Azienda;DE;Europa
+Shanghai Ocean University;62;Post-2000;Università;CN;Asia
+Imo Holding Gmbh;60;Post-2000;Azienda;DE;Europa
+Shandong University Of Science And Technology;59;Post-2000;Università;CN;Asia
+Shenyang Aerospace University;58;Post-2000;Università;CN;Asia
+Nabtesco Corporation;58;Post-2000;Azienda;JP;Asia
+Cc3D Llc;58;Post-2000;Azienda;US;America
+Samsung Electronics Co., Ltd.;58;Post-2000;Azienda;KR;Asia
+Acciona Windpower, S.A.;58;Post-2000;Azienda;ES;Europa
+Miba Gleitlager Austria Gmbh;57;Post-2000;Azienda;AT;Europa
+Suzlon Energy Gmbh;57;Post-2000;Azienda;DE;Europa
+Continuous Composites Inc.;56;Post-2000;Azienda;US;America
+Ifp Energies Nouvelles;56;Post-2000;Ente pubblico;FR;Europa
+Nanjing Wind Power Technology Co., Ltd.;56;Post-2000;Azienda;CN;Asia
+Nabtesco Corp;56;Post-2000;Azienda;JP;Asia
+Beijing Etechwin Electrical Co., Ltd.;55;Post-2000;Azienda;CN;Asia
+Gm Global Technology Operations Llc;55;Post-2000;Azienda;US;America
+Lanzhou University Of Technology;55;Post-2000;Università;CN;Asia
+Xuji Group Corporation;54;Post-2000;Azienda;CN;Asia
+Gree Electric Appliances,Inc.Of Zhuhai;53;Post-2000;Azienda;CN;Asia
+Itrec B.V.;53;Post-2000;Azienda;NL;Europa
+Beijing University Of Technology;53;Post-2000;Università;CN;Asia
+Shanghai Maritime University;53;Post-2000;Università;CN;Asia
+Huaneng Clean Energy Research Institute;53;Post-2000;Azienda;CN;Asia
+Basf Se;52;Post-2000;Azienda;DE;Europa
+CATERPILLAR;52;Post-2000;Azienda;US;America
+Principle Power, Inc.;52;Post-2000;Azienda;US;America
+Abb Research Ltd.;51;Post-2000;Azienda;CH;Europa
+Shanghai University Of Electric Power;51;Post-2000;Università;CN;Asia
+Textron Innovations Inc.;51;Post-2000;Azienda;US;America
+Wuxi Tongchun New Energy Technology Co., Ltd.;51;Post-2000;Azienda;CN;Asia
+Jilin University;51;Post-2000;Università;CN;Asia
+China National Offshore Oil Corporation;50;Post-2000;Azienda;CN;Asia
+Hunan University Of Science And Technology;49;Post-2000;Università;CN;Asia
+Harbin University Of Science And Technology;49;Post-2000;Università;CN;Asia
+Guodian United Power Technology (Lianyungang) Co., Ltd.;49;Post-2000;Azienda;CN;Asia
+Sinomatech Wind Power Blade Co., Ltd.;48;Post-2000;Azienda;CN;Asia
+Zhuzhou Times New Materials Technology Co., Ltd.;48;Post-2000;Azienda;CN;Asia
+Sumitomo Electric Ind Ltd;48;Post-2000;Azienda;JP;Asia
+Nordex Energy Se & Co. Kg;48;Post-2000;Azienda;DE;Europa
+Tokyo Electric Power Co Inc:The;48;Post-2000;Azienda;JP;Asia
+Hyundai Heavy Industries Co., Ltd.;47;Post-2000;Azienda;KR;Asia
+Mcalister Technologies, Llc;47;Post-2000;Azienda;US;America
+Mao Yongbo;47;Post-2000;Altro;CN;Asia
+Lg Electronics Inc.;47;Post-2000;Azienda;KR;Asia
+Schaeffler Technologies Gmbh & Co. Kg;47;Post-2000;Azienda;DE;Europa
+China Three Gorges University;46;Post-2000;Università;CN;Asia
+Csr Zhuzou Electric Locomotive Research Instituteco., Ltd.;46;Post-2000;Azienda;CN;Asia
+Romax Technology Limited;46;Post-2000;Azienda;GB;Europa
+Yanshan University;46;Post-2000;Università;CN;Asia
+Egedal, Per;45;Post-2000;Altro;DK;Europa
+Enel Green Power S.P.A.;45;Post-2000;Azienda;IT;Europa
+Aerodyn Engineering Gmbh;45;Post-2000;Azienda;DE;Europa
+Zhuzhou Times New Material Technology Co., Ltd.;45;Post-2000;Azienda;CN;Asia
+Central South University;45;Post-2000;Università;CN;Asia
+Crrc Wind Power (Shandong) Co., Ltd.;45;Post-2000;Azienda;CN;Asia
+Meng Yingzhi;45;Post-2000;Altro;CN;Asia
+Xi'An Thermal Power Research Institute Co., Ltd.;44;Post-2000;Azienda;CN;Asia
+Shenzhen Jingchuang Heavy Industry Special Engineering Co., Ltd.;44;Post-2000;Azienda;CN;Asia
+Sumitomo Electric Industries, Ltd.;43;Post-2000;Azienda;JP;Asia
+Areva Wind Gmbh;43;Post-2000;Azienda;DE;Europa
+North China Electrical Power Research Institute Co., Ltd.;43;Post-2000;Azienda;CN;Asia
+Liebherr-Components Biberach Gmbh;42;Post-2000;Azienda;DE;Europa
+Liftra Ip Aps;42;Post-2000;Azienda;DK;Europa
+Nies, Jacob Johannes;42;Post-2000;Altro;DE;Europa
+Holcim Technology Ltd;41;Post-2000;Azienda;CH;Europa
+Jtekt Corp;41;Post-2000;Azienda;JP;Asia
+Ssb Wind Systems Gmbh & Co. Kg;41;Post-2000;Azienda;DE;Europa
+Xiangtan Electric Manufacturing Co., Ltd.;41;Post-2000;Azienda;CN;Asia
+Johns Manville;40;Post-2000;Azienda;US;America
+Nanjing University Of Information Science & Technology;40;Post-2000;Università;CN;Asia
+Lianyungang Zhongfu Lianzhong Composites Group Co., Ltd.;40;Post-2000;Azienda;CN;Asia
+Yishui Shengrong New Energy Co., Ltd.;40;Post-2000;Azienda;CN;Asia
+Anhui University Of Science & Technology;40;Post-2000;Università;CN;Asia
+Changsha University Of Science & Technology;39;Post-2000;Università;CN;Asia
+University Of Maine System Board Of Trustees;39;Post-2000;Università;US;America
+Renk Aktiengesellschaft;39;Post-2000;Azienda;DE;Europa
+Li Desheng;39;Post-2000;Altro;CN;Asia
+Korea Institute Of Ocean Science & Technology;39;Post-2000;Ente pubblico;KR;Asia
+Hunan Institute Of Engineering;38;Post-2000;Università;CN;Asia
+China Datang Corporation Science And Technology Research Institute Co., Ltd.;38;Post-2000;Azienda;CN;Asia
+Raytheon Technologies Corporation;38;Post-2000;Azienda;US;America
+Jiangsu Naier Wind Power Technology Development Co., Ltd.;38;Post-2000;Azienda;CN;Asia
+HONDA;37;Post-2000;Azienda;JP;Asia
+Tpi Composites, Inc.;37;Post-2000;Azienda;US;America
+University Of Ulsan Foundation For Industry Cooperation;37;Post-2000;Università;KR;Asia
+Industrial Cooperation Foundation Chonbuk National University;37;Post-2000;Università;KR;Asia
+Industry-Academic Cooperation Foundation, Kunsan National University;37;Post-2000;Università;KR;Asia
+Yangzhou University;37;Post-2000;Università;CN;Asia
+Institute Of Electrical Engineering, Chinese Academy Of Sciences;37;Post-2000;Ente pubblico;CN;Asia
+Numajiri, Tomohiro;37;Post-2000;Altro;JP;Asia
+Cilag Gmbh International;36;Post-2000;Azienda;CH;Europa
+Chang'An University;36;Post-2000;Università;CN;Asia
+Esteyco S.A.P.;36;Post-2000;Azienda;ES;Europa
+Csr Zhuzhou Electric Locomotive Research Institute Co., Ltd.;36;Post-2000;Azienda;CN;Asia
+Zhongneng Power-Tech Development Co., Ltd.;36;Post-2000;Azienda;CN;Asia
+Airbus Operations Limited;36;Post-2000;Azienda;GB;Europa
+Guangdong University Of Technology;36;Post-2000;Università;CN;Asia
+Openhydro Ip Limited;36;Post-2000;Azienda;IE;Europa
+Xi'An University Of Technology;36;Post-2000;Università;CN;Asia
+Hefei University Of Technology;36;Post-2000;Università;CN;Asia
+Technip France;35;Post-2000;Azienda;FR;Europa
+China Electric Power Research Institute Co., Ltd.;35;Post-2000;Ente pubblico;CN;Asia
+Jiangsu Maijing Environmental Protection Technology Co., Ltd.;35;Post-2000;Azienda;CN;Asia
+Max Bögl Wind Ag;35;Post-2000;Azienda;DE;Europa
+Delta Electronics, Inc.;35;Post-2000;Azienda;TW;Asia
+Nanjing Institute Of Technology;35;Post-2000;Università;CN;Asia
+Shimizu Corp;35;Post-2000;Azienda;JP;Asia
+Saudi Arabian Oil Company;35;Post-2000;Azienda;SA;Asia
+Hyundai Motor Company;34;Post-2000;Azienda;KR;Asia
+Northeast Dianli University;34;Post-2000;Università;CN;Asia
+The United States Of America As Represented By The Secretary Of The Navy;34;Post-2000;Ente pubblico;US;America
+Cisco Technology, Inc.;34;Post-2000;Azienda;US;America
+Halliburton Energy Services, Inc.;34;Post-2000;Azienda;US;America
+Yasugi, Akira;33;Post-2000;Altro;JP;Asia
+Deme Offshore Be N.V.;33;Post-2000;Azienda;BE;Europa
+Guangdong Mingyang Wind Power Industry Group Co., Ltd.;33;Post-2000;Azienda;CN;Asia
+Wakasa, Tsuyoshi;33;Post-2000;Altro;JP;Asia
+Xiangtan University;33;Post-2000;Università;CN;Asia
+Nsk Ltd.;33;Post-2000;Azienda;JP;Asia
+Hunan University;33;Post-2000;Università;CN;Asia
+Inner Mongolia Geoho Energy Equipment Co., Ltd.;33;Post-2000;Azienda;CN;Asia
+Ebara Corp;33;Post-2000;Azienda;JP;Asia
+SONY;33;Post-2000;Azienda;JP;Asia
+Nantong University;33;Post-2000;Università;CN;Asia
+China Mcc17 Group Co., Ltd.;33;Post-2000;Azienda;CN;Asia
+Dongfang Turbine Co., Ltd., Dongfang Electric Corporation;33;Post-2000;Azienda;CN;Asia
+Nordex Energy Spain, S.A.U.;33;Post-2000;Azienda;ES;Europa
+Beijing Nego Automation Technology Co., Ltd.;32;Post-2000;Azienda;CN;Asia
+Herr, Stefan;32;Post-2000;Altro;DE;Europa
+Rwe Renewables Gmbh;32;Post-2000;Azienda;DE;Europa
+Windfin B.V.;32;Post-2000;Azienda;NL;Europa
+Huang, Guo-Zhang;32;Post-2000;Altro;CN;Asia
+Schaeffler Kg;32;Post-2000;Azienda;DE;Europa
+Thyssenkrupp Rothe Erde Germany Gmbh;32;Post-2000;Azienda;DE;Europa
+Sichuan University;32;Post-2000;Università;CN;Asia
+Sinoma Wind Power Blade Co., Ltd.;32;Post-2000;Azienda;CN;Asia
+Csic Haizhuang Windpower Co., Ltd.;32;Post-2000;Azienda;CN;Asia
+Lutron Electronics Co., Inc.;32;Post-2000;Azienda;US;America
+Ørsted Wind Power A/S;31;Post-2000;Azienda;DK;Europa
+Inventus Holdings, Llc;31;Post-2000;Azienda;US;America
+Goodrich Corporation;31;Post-2000;Azienda;US;America
+Flodesign Wind Turbine Corp.;31;Post-2000;Azienda;US;America
+Deere & Company;31;Post-2000;Azienda;US;America
+Presz, Jr., Walter M.;31;Post-2000;Altro;US;America
+Beijing Sanli Xinneng Science & Technology Co., Ltd.;31;Post-2000;Azienda;CN;Asia
+Eads Deutschland Gmbh;31;Post-2000;Azienda;DE;Europa
+Raytheon Company;31;Post-2000;Azienda;US;America
+Bayerische Motoren Werke Aktiengesellschaft;31;Post-2000;Azienda;DE;Europa
+Safran Aircraft Engines;31;Post-2000;Azienda;FR;Europa
+C-Ling Limited;31;Post-2000;Azienda;HK;Asia
+The Timken Company;31;Post-2000;Azienda;US;America
+Beijing Tanghao Power Engineering Technology Research Co., Ltd.;31;Post-2000;Azienda;CN;Asia
+Guangxi University;31;Post-2000;Università;CN;Asia
+Ningbo Jiangbei Ruichen Handicraft Design Co., Ltd.;30;Post-2000;Azienda;CN;Asia
+Centre National De La Recherche Scientifique;30;Post-2000;Ente pubblico;FR;Europa
+Beijing Wanyuan Industry Co., Ltd.;30;Post-2000;Azienda;CN;Asia
